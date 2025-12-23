@@ -122,7 +122,7 @@ mediante el uso de servicios gestionados.
 
 ### 2. Diagrama Conceptual
 
-
+![Arquitectura 3-Tier](arquitectura-3-tier/diagrama.png)
 
 ### 3. Decisiones de Diseño y Justificación
 
